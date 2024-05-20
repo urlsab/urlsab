@@ -6,14 +6,22 @@
 
 <h2 align="center">💻 TECH STACK</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,bootstrap,express,firebase,github,gmail,heroku,linkedin,materialui,nodejs,npm,postman,sublime,stackoverflow,svg,vercel,visualstudio,vscode,webpack,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,bootstrap,express,firebase,github,heroku,materialui,nodejs,npm,postman,sublime,stackoverflow,svg,vercel,visualstudio,vscode,webpack,windows)](https://skillicons.dev)
 
 <h2 align="center">📞 CONTACT</h2>
-<a src="">[![My Skills](https://skillicons.dev/icons?i=gmail,)](https://skillicons.dev)</a>
 
-
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<div>
+   <img 
+    href="mailto:yairsabag213@gmail.com"
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+  
+  <img 
+    href="https://linkedin.com/in/uriel-sabag" 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</div>
+ 
 
 <h2 align="center">📈 STATS</h2>
 
