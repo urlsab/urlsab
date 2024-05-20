@@ -6,7 +6,7 @@
 
 <h2 align="center">TECH STACK</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,bootstrap,express,firebase,heroku,materialui,nodejs,npm,postman,stackoverflow,vercel,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,bootstrap,express,firebase,github,gmail,heroku,materialui,nodejs,npm,postman,sublime,stackoverflow,svg,vercel,visualstudio,vscode,webpack,windows)](https://skillicons.dev)
 
 <h2 align="center">CONTACT</h2>
 
@@ -19,7 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlsab&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=urlsab)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=urlsab)](https://git.io/streak-stats)-->
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=urlsab&theme=dark" alt="GitHub Streak" /></a>
 
