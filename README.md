@@ -6,7 +6,7 @@
 
 <h2 align="center">TECH STACK</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,bootstrap,express,firebase,github,gmail,heroku,materialui,nodejs,npm,postman,sublime,stackoverflow,svg,vercel,visualstudio,vscode,webpack,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,bootstrap,express,firebase,github,gmail,heroku,linkedin,materialui,nodejs,npm,postman,sublime,stackoverflow,svg,vercel,visualstudio,vscode,webpack,windows)](https://skillicons.dev)
 
 <h2 align="center">CONTACT</h2>
 
@@ -15,14 +15,7 @@
 
 <h2 align="center">STATICS</h2>
 
-[![urlsab's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=urlsab)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlsab&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=urlsab)](https://git.io/streak-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlsab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=urlsab&theme=dark" alt="GitHub Streak" /></a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=urlsab&theme=dark)](https://git.io/streak-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=urlsab&repo=urlsab)](https://github.com/anuraghazra/github-readme-stats)
