@@ -10,7 +10,7 @@
 
 <h2 align="center">📞 CONTACT</h2>
 
-<div>
+<a>
    <img 
     href="mailto:yairsabag213@gmail.com"
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -20,8 +20,7 @@
     href="https://linkedin.com/in/uriel-sabag" 
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   />
-</div>
- 
+</a>
 
 <h2 align="center">📈 STATS</h2>
 
