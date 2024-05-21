@@ -1,15 +1,16 @@
 
 
-## 👋 hi ! My name is Uriel Yair Sabag | Software Developer
+## 👋 hi ! My name is Uriel Yair Sabag. 
+### I see myself in this gif below..do you too? 
 
-#### ![](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+![](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 <hr />
 
 ### 👨‍💻 I’m currently working on a big project for building resumes easily and quickly.
 ### 📱 I’m passionate about making cool features from scratch.
 ### 🌍 I'm striving to make the world better by code.
-### 🎹 Fun facts: I'm reading books and writing poems!
+### 📖 Fun facts: I'm reading books and writing poems!
 
 <hr />
 
