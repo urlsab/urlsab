@@ -11,15 +11,20 @@
 ### 📱 I’m passionate about making cool features from scratch.
 ### 🌍 I'm striving to make the world better by code.
 ### 📖 Fun facts: I'm reading books and writing poems!
+### 🌐 For more info about me, check out my Portfolio 
 
 <hr />
 
-<h2 align="center">💻 TECH STACK</h2>
-<div align="center">
-   <img align="center" src="https://skillicons.dev/icons?   i=js,html,css,react,mongodb,bootstrap,express,firebase,heroku,materialui,nodejs,npm,postman,svg,vercel,visualstudio,vscode,webpack" />
-</div>
+<h2 align="center">💻 TECH STACK
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,bootstrap,express,firebase,heroku,materialui,nodejs,npm,postman,svg,vercel,visualstudio,vscode,webpack&perline=6)](https://skillicons.dev)
+<br />
+<br />
+
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,bootstrap,express,firebase,heroku,materialui,nodejs,npm,postman,svg,vercel,visualstudio,vscode,webpack&perline=6)](https://skillicons.dev)
+
+</h2>
+
+
 
 <hr />
 
