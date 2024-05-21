@@ -22,27 +22,32 @@
 
 <hr />
 
-<h2 align="center">📞 CONTACT</h2>
+<h2 align="center">📞 CONTACT
 
-<div align="center">
-   <a align="center">
-      <img align="center" href="mailto:yairsabag213@gmail.com" src="https://skillicons.dev/icons?i=gmail"/>
+<br />
+<br />
+
+   <a align="center" href="mailto:yairsabag213@gmail.com">
+      <img align="center"  src="https://skillicons.dev/icons?i=gmail"/>
+ </a>
+  
+  <a href="https://linkedin.com/in/uriel-sabag">
+     <img align="center"  src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   
-  <a align="center">
-     <img align="center" href="https://linkedin.com/in/uriel-sabag" src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  
-</div>
+
+
+</h2>
 
 <hr />
 
 <h2 align="center" >📈 STATS 
+   
+<br />
+<br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlsab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlsab&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a align="center" href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=urlsab&theme=dark" alt="GitHub Streak" /></a>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=urlsab&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </h2>
