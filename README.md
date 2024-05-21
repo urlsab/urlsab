@@ -11,7 +11,7 @@
 ### 📱 I’m passionate about making cool features from scratch.
 ### 🌍 I'm striving to make the world better by code.
 ### 📖 Fun facts: I'm reading books and writing poems!
-### 🌐 For more info about me, check out my Portfolio 
+### 🌐 For more info about me, check out my <a href="https://portfolio-lyart-five-82.vercel.app/">Portfolio</a>.
 
 <hr />
 
@@ -23,8 +23,6 @@
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,bootstrap,express,firebase,heroku,materialui,nodejs,npm,postman,svg,vercel,visualstudio,vscode,webpack&perline=6)](https://skillicons.dev)
 
 </h2>
-
-
 
 <hr />
 
@@ -40,9 +38,10 @@
   <a href="https://linkedin.com/in/uriel-sabag">
      <img align="center"  src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
+
+  <br />
+  <br />
   
-
-
 </h2>
 
 <hr />
