@@ -1,17 +1,15 @@
-
-
-## 👋 hi ! My name is Uriel Yair Sabag. 
-### I see myself in this gif below..do you too? 
+## 👋 Hey There ! My name is Uriel Yair Sabag. 
+#### I see myself in this gif below..do you too? 
 
 ![](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 <hr />
 
-### 👨‍💻 I’m currently working on a big project for building resumes easily and quickly.
-### 📱 I’m passionate about making cool features from scratch.
-### 🌍 I'm striving to make the world better by code.
-### 📖 Fun facts: I'm reading books and writing poems!
-### 🌐 For more info about me, check out my <a href="https://portfolio-lyart-five-82.vercel.app/">Portfolio</a>.
+#### 👨‍💻 I’m currently working on a big project for building resumes easily and quickly.
+#### 📱 I’m passionate about making cool features from scratch.
+#### 🌍 I'm striving to make the world better by code.
+#### 📖 Fun facts: I'm reading books and writing poems!
+#### 🌐 For more info about me, check out my <a href="https://portfolio-lyart-five-82.vercel.app/">Portfolio</a>.
 
 <hr />
 
@@ -20,7 +18,7 @@
 <br />
 <br />
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,bootstrap,express,firebase,heroku,materialui,nodejs,npm,postman,svg,vercel,visualstudio,vscode,webpack&perline=6)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,svg,bootstrap,materialui,emotion,jquery,js,react,babel,npm,webpack,nodejs,express,mongodb,firebase,heroku,postman,vercel,visualstudio,vscode,sublime,windows,stackoverflow,github&perline=7)](https://skillicons.dev)
 
 </h2>
 
