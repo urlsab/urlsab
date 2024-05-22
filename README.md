@@ -18,7 +18,7 @@
 <br />
 <br />
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,svg,bootstrap,materialui,jquery,js,react,babel,npm,webpack,nodejs,express,mongodb,firebase,heroku,postman,vercel,visualstudio,vscode,sublime,windows,stackoverflow,bash,powershell,ubuntu,git,github&perline=7)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,svg,bootstrap,materialui,jquery,js,react,babel,npm,webpack,nodejs,express,mongodb,gcp,firebase,heroku,postman,vercel,visualstudio,vscode,sublime,windows,bash,powershell,ubuntu,git,github,stackoverflow&perline=7)](https://skillicons.dev)
 
 </h2>
 
