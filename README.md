@@ -6,10 +6,10 @@
 <hr />
 
 #### 👨‍💻 I’m currently working on a big project for building resumes easily and quickly.
-#### 📱 I’m passionate about making cool features from scratch.
+#### 📱 I have a passion for making cool features from scratch.
 #### 🌍 I'm striving to make the world better by code.
-#### 📖 Fun facts: I'm reading books and writing poems!
-#### 🌐 For more info about me, check out my <a href="https://portfolio-lyart-five-82.vercel.app/">Portfolio</a>.
+#### 📖 Hobbies: reading books and writing poems!
+#### 🌐 <a href="https://portfolio-lyart-five-82.vercel.app/">Here</a> you can see my projects and more
 
 <hr />
 
