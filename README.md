@@ -9,7 +9,7 @@
 #### 📱 I have a passion for making cool features from scratch.
 #### 🌍 I'm striving to make the world better by code.
 #### 📖 Hobbies: reading books and writing poems!
-#### 🌐 <a href="https://portfolio-lyart-five-82.vercel.app/">Here</a> you can see my projects and more
+#### 🌐 <a href="https://portfolio-lyart-five-82.vercel.app/">Here</a> you can see my projects and more.
 
 <hr />
 
@@ -52,5 +52,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlsab&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a align="center" href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=urlsab&theme=dark" alt="GitHub Streak" /></a>
+
+</h2>
+
+<hr />
+
+<h2 align="center" > 💬 MOTTO
+
+<br />
+<br />
+
+ ![](https://skillicons.dev/icons?i=react) if ![](https://skillicons.dev/icons?i=unreal,c) injustice
 
 </h2>
