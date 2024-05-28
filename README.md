@@ -57,11 +57,9 @@
 
 <hr />
 
-<h2 align="center" > 💬 MOTTO
-
+<h1 align="center" > 💬 MOTTO
 <br />
 <br />
+🅱🫵4️⃣👍🌍
 
- ![](https://skillicons.dev/icons?i=react) if ![](https://skillicons.dev/icons?i=unreal,c) injustice
-
-</h2>
+</h1>
