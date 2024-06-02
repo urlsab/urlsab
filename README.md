@@ -60,6 +60,6 @@
 <h1 align="center" > 💬 MOTTO
 <br />
 <br />
-🅱🫵4️⃣👍🌍
+🅱U4️⃣👍🌍
 
 </h1>
