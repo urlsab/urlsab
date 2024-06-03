@@ -23,7 +23,7 @@
 <br />
 <br />
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,svg,bootstrap,materialui,jquery,js,react,babel,npm,webpack,nodejs,express,mongodb,gcp,firebase,heroku,postman,vercel,visualstudio,vscode,windows,powershell,git&perline=7)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,svg,bootstrap,materialui,jquery,js,react,babel,npm,webpack,nodejs,express,mongodb,gcp,firebase,heroku,postman,vercel,visualstudio,vscode,windows,powershell,git&perline=6)](https://skillicons.dev)
 
 </h2>
 
