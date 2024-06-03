@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hey there ! My name is Uriel Yair Sabag. </h1>
+<h1 align="center"> 👋 Hey there ! My name is Uriel Yair Sabag 😎 </h1>
 <h2 align="center"> I see myself in this gif below..do you too?
 
 <br />
@@ -18,7 +18,7 @@
 
 <hr />
 
-<h2 align="center">💻 TECH STACK
+<h2 align="center">💻 TECH STACK 📱
 
 <br />
 <br />
@@ -29,7 +29,7 @@
 
 <hr />
 
-<h2 align="center">📞 CONTACT
+<h2 align="center">📞 CONTACT 📧
 
 <br />
 <br />
@@ -49,7 +49,7 @@
 
 <hr />
 
-<h2 align="center" >📈 STATS 
+<h2 align="center" >📈 STATS 📉
    
 <br />
 <br />
@@ -62,7 +62,7 @@
 
 <hr />
 
-<h1 align="center" > 💬 MOTTO
+<h1 align="center" > 💬 MOTTO 💬
 <br />
 <br />
 🅱U4️⃣👍🌍
