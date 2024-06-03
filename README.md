@@ -1,8 +1,13 @@
-## 👋 Hey there ! My name is Uriel Yair Sabag. 
-#### I see myself in this gif below..do you too? 
+<h2 align="center"> 👋 Hey there ! My name is Uriel Yair Sabag. </h2>
+<h3 align="center"> I see myself in this gif below..do you too?
+
+<br />
+<br />
 
 ![](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
+</h3>
+ 
 <hr />
 
 #### 👨‍💻 I’m currently working on a big project for building resumes easily and quickly.
@@ -18,7 +23,7 @@
 <br />
 <br />
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,svg,bootstrap,materialui,jquery,js,react,babel,npm,webpack,nodejs,express,mongodb,gcp,firebase,heroku,postman,vercel,visualstudio,vscode,windows,bash,powershell,ubuntu,git,github,stackoverflow&perline=7)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,svg,bootstrap,materialui,jquery,js,react,babel,npm,webpack,nodejs,express,mongodb,gcp,firebase,heroku,postman,vercel,visualstudio,vscode,windows,powershell,git&perline=7)](https://skillicons.dev)
 
 </h2>
 
