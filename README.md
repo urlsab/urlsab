@@ -1,17 +1,17 @@
-<h2 align="center"> 👋 Hey there ! My name is Uriel Yair Sabag. </h2>
-<h3 align="center"> I see myself in this gif below..do you too?
+<h1 align="center"> 👋 Hey there ! My name is Uriel Yair Sabag. </h1>
+<h2 align="center"> I see myself in this gif below..do you too?
 
 <br />
 <br />
 
 ![](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
-</h3>
+</h2>
  
 <hr />
 
 #### 👨‍💻 I’m currently working on a big project for building resumes easily and quickly.
-#### 📱 I have a passion for making cool features from scratch.
+#### 📱 I have a passion for making features from scratch.
 #### 🌍 I'm striving to make the world better by code.
 #### 📖 Hobbies: reading books and writing poems!
 #### 🌐 <a href="https://portfolio-lyart-five-82.vercel.app/">Here</a> you can see my projects and more.
