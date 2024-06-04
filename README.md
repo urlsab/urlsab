@@ -62,9 +62,9 @@
 
 <hr />
 
-<h1 align="center" > 💬 MOTTO 💬
+<h2 align="center" > 💬 <ins>MOTTO</ins> 💬
 <br />
 <br />
 🅱U4️⃣👍🌍
 
-</h1>
+</h2>
