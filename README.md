@@ -18,7 +18,7 @@
 
 <hr />
 
-<h2 align="center">💻 TECH STACK 📱
+<h2 align="center">💻 <ins>TECH STACK</ins> 📱
 
 <br />
 <br />
@@ -29,7 +29,7 @@
 
 <hr />
 
-<h2 align="center">📞 CONTACT 📧
+<h2 align="center">📞 <ins>CONTACT</ins> 📧
 
 <br />
 <br />
@@ -49,7 +49,7 @@
 
 <hr />
 
-<h2 align="center" >📈 STATS 📉
+<h2 align="center" >📈 <ins>STATS</ins> 📉
    
 <br />
 <br />
