@@ -42,10 +42,14 @@
      <img align="center"  src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 
+  
+
   <br />
   <br />
   
 </h2>
+
+
 
 <hr />
 
@@ -68,3 +72,17 @@
 🅱U4️⃣👍🌍
 
 </h2>
+
+<hr />
+
+> [!NOTE]  
+> * On the **TECH STACK** part we displayed only part of the stack
+> * The **MOTTO** means that if every one will stick to his real-good purpose, the world will be better 
+
+>  [!IMPORTANT]  
+> * If from some reason, you didn't reached my email or linked, here's my links:
+> * Email: yairsabag213@gmail.com
+> * Linkedin: [linkedin.com/in/uriel-sabag](https://linkedin.com/in/uriel-sabag)
+
+<hr />
+
