@@ -80,7 +80,7 @@
 > * The **MOTTO** means that if every one will stick to his real-good purpose, the world will be better 
 
 >  [!IMPORTANT]  
-> * If from some reason, you didn't reached my email or linked, here's my links:
+> * If from some reason, you didn't reached my email or linkedin, here's my links:
 > * Email: yairsabag213@gmail.com
 > * Linkedin: [linkedin.com/in/uriel-sabag](https://linkedin.com/in/uriel-sabag)
 
