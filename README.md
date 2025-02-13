@@ -24,7 +24,7 @@
 <br />
 <br />
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,bash,docker,github,jest,linux,pnpm,postgres,redux,regex,sass,tailwind,ts,ubuntu,vite,vitest,svg,bootstrap,materialui,jquery,js,react,babel,npm,webpack,nodejs,express,mongodb,gcp,firebase,heroku,postman,vercel,figma,styledcomponents,vscode,windows,powershell,git&perline=8)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,bash,docker,github,jest,linux,pnpm,postgres,redux,githubactions,linkedin,netlify,ps,stackoverflow,sublime,visualstudio,codepen,eclipse,gmail,regex,sass,tailwind,ts,ubuntu,vite,vitest,svg,bootstrap,materialui,jquery,js,react,babel,npm,webpack,nodejs,express,mongodb,gcp,firebase,heroku,postman,vercel,figma,styledcomponents,vscode,windows,powershell,git&perline=10)](https://skillicons.dev)
 
 </h2>
 
