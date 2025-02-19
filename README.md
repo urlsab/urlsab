@@ -10,8 +10,9 @@
  
 <hr />
 
-#### 👨‍💻 I’m currently building websites for customers in my independent business - Sabag Websites Building
-#### 👨‍💻 I'm also developing a [Resumes Builder](https://resumes-builder.web.app) platform with many features 
+#### 👨‍💻 These days, I am an active partner and contribute code to the [Innovators Hub](https://github.com/InnovatorsHub1) organization.
+#### 👨‍💻 I founded a private technology business called C&TS.
+#### 👨‍💻 I'm also developing a [Resumes Builder](https://resumes-builder.web.app) platform with many features. 
 #### 📱 I have a passion for making features from scratch.
 #### 🌍 I'm striving to make the world better by code.
 #### 📖 Hobbies: reading books and writing poems!
