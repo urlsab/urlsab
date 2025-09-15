@@ -10,7 +10,7 @@
  
 <hr />
 
-#### 👨‍💻 These days, I am an active partner and contribute code to the [Innovators Hub](https://github.com/InnovatorsHub1) organization.
+#### 👨‍💻 I was part of [Innovators Hub](https://github.com/InnovatorsHub1) organization.
 #### 👨‍💻 I founded a private technology business called Catapp.
 #### 👨‍💻 I built a SaaS product called [Resumes Builder](https://resumes-builder.web.app). 
 #### 📱 I have a passion for making features from scratch.
