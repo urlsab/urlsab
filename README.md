@@ -11,7 +11,7 @@
 <hr />
 
 #### 👨‍💻 I was part of [Innovators Hub](https://github.com/InnovatorsHub1) organization.
-#### 👨‍💻 I founded a private technology business called Catapp(https://catapp.it.com).
+#### 👨‍💻 I founded a private technology business called [Catapp](https://catapp.it.com).
 #### 👨‍💻 I built a SaaS product called [Resumes Builder](https://resumes-builder.web.app). 
 #### 📱 I have a passion for making features from scratch.
 #### 🌍 I'm striving to make the world better by code.
