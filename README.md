@@ -11,12 +11,11 @@
 <hr />
 
 #### 👨‍💻 I was part of [Innovators Hub](https://github.com/InnovatorsHub1) organization.
-#### 👨‍💻 I founded a private technology business called Catapp.
+#### 👨‍💻 I founded a private technology business called Catapp(https://catapp.it.com).
 #### 👨‍💻 I built a SaaS product called [Resumes Builder](https://resumes-builder.web.app). 
 #### 📱 I have a passion for making features from scratch.
 #### 🌍 I'm striving to make the world better by code.
 #### 📖 Hobbies: reading books and writing poems!
-#### 🌐 <a href="https://portfolio-lyart-five-82.vercel.app/">Here</a> you can see my projects and more.
 
 <hr />
 
